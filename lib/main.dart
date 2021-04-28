@@ -51,7 +51,7 @@ class HelloWorldApp extends StatelessWidget {
                           color: Colors.blueAccent,
                         ),
                         alignment: Alignment.center,
-                       g margin: EdgeInsets.all(20),
+                        margin: EdgeInsets.all(20),
                         child: Text(
                           'Hello world',
                           textDirection: TextDirection.ltr,
